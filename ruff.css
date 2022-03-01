@@ -1,0 +1,27 @@
+.header .nav_list{
+	margin: 40px;
+	/*margin-right: 20px;*/
+	/*padding-right: 20px;*/
+	/*border-right: dotted;*/
+	border: solid;
+	padding: 3px 20px;
+	text-decoration: none;
+	background: rgba(1, 1, 1, 1);
+	color: white;
+
+}
+.header .d{
+	
+}
+.header .d1{
+	float: right;
+	
+}
+body{
+	background-image: url(images/stadium.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	/*height: 700px;*/
+	/*flex: 60%;*/
+
+}
