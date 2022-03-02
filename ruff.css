@@ -17,11 +17,3 @@
 	float: right;
 	
 }
-body{
-	background-image: url(images/stadium.jpg);
-	background-repeat: no-repeat;
-	background-size: cover;
-	/*height: 700px;*/
-	/*flex: 60%;*/
-
-}
